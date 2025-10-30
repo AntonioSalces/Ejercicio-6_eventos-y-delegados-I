@@ -1,0 +1,8 @@
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\bin\Debug\Ejercicio 6_eventos y delegados I.exe.config
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\bin\Debug\Ejercicio 6_eventos y delegados I.exe
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\bin\Debug\Ejercicio 6_eventos y delegados I.pdb
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\obj\Debug\Ejercicio 6_eventos y delegados I.csproj.AssemblyReference.cache
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\obj\Debug\Ejercicio 6_eventos y delegados I.csproj.CoreCompileInputs.cache
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\obj\Debug\Ejercicio 6_eventos y delegados I.exe
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\obj\Debug\Ejercicio 6_eventos y delegados I.pdb
+C:\Users\asalalc1312\source\repos\Ejercicio 6_eventos y delegados I\Ejercicio 6_eventos y delegados I\obj\Debug\Ejercicio 6_eventos y delegados I.exe.config
